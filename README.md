@@ -1,9 +1,9 @@
 
 # 🐶 DogWifDrip ($DRIP)
 
-![DogWifDrip Banner](https://dogwifdrip.com/assets/banner-drip.png)
 <p align="center">
-  <img src="WhatsApp Image 2025-10-21 at 12.39.09_23e532b0.JPG" alt="Logo" width="200">
+  <img src="![WhatsApp Image 2025-10-21 at 12 39 09_23e532b0](https://github.com/user-attachments/assets/13670fca-805e-4974-9f45-ef2a3fc0b07b)
+" alt="Logo" width="200">
 </p>
 
 
